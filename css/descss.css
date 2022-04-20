@@ -1,0 +1,29 @@
+.navegador{
+    background-color: darkgrey;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.main{
+    width: 900px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.foot{
+    background-color: darkgray;
+    text-align: center;
+}
+
+i{
+    font-style: italic;
+}
+
+.div_mid{
+    text-align: center;
+    font-size: larger;
+}
